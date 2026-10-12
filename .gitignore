@@ -1,0 +1,5 @@
+build/
+research/packages/
+.claude/
+research/ini-snapshots/
+tools/__pycache__/
